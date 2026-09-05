@@ -1,0 +1,10 @@
+# gstack tooling state (contains session tokens - never commit)
+.gstack/
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
